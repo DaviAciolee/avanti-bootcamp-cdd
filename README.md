@@ -1,4 +1,4 @@
-# Análise e previsão de gorjeta
+# Análise e Previsão de Gorjeta
 
 <p align="center">
     <img src="https://cdn.abrahao.com.br/base/7ea/fe9/5ed/como-funciona-nova-lei-da-gorjeta.jpg" />
@@ -8,7 +8,7 @@ O objetivo desse projeto é analisar os ganhos de gorjeta de um garçom trabalha
 
 ## Justificativa
 
-O entendimento e previsão das pessoas que dão gorjeta para o garçom é importante para o mesmo compreeender as variáveis que modificam uma das suas fontes de renda.
+O entendimento e previsão dos ganhos por gorjeta do garçom é importante para o mesmo compreeender as variáveis que modificam uma das suas fontes de renda.
 
 Questões que o projeto irá abordar:
 - Qual fator mais influencia na gorjeta do garçom ?
@@ -25,7 +25,7 @@ O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os segu
 O projeto é dividido em duas entregas, são elas:
 
 1. **Análise Exploratória de Dados (EDA)**: entendimento das varáveis que influenciam a gorjeta recebida pelo garçom e identificação de padrões nos dados através de hipóteses, visualizações e insights.
-2. **Análise comparativa de modelos**: construção de modelos de aprendizado de máquina para previsão de gorjeta.
+2. **Análise Comparativa de Modelos**: construção de modelos de aprendizado de máquina para previsão de gorjeta.
 
 ## Resultados Esperados
 
