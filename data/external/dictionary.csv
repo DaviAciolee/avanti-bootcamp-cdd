@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,Valor da conta em dólar,quantitativa,continua
+tip,Valor da gorjeta em dolár,quantitativa,continua
+sex,Sexo do pagador da conta,qualitativa,nominal
+smoker,Fumante na festa,qualitativa,nominal
+day,Dia da semana,qualitativa,nominal
+time,Hora do dia,qualitativa,nominal
+size,Tamanho da festa,quantitativa,discreta
